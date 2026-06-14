@@ -17,10 +17,10 @@ A modern and responsive personal portfolio website built using React.js and Tail
 - Vite
 
 ## Live Demo
-https://personalportfoliousing-reactjsandta.vercel.app
+https://personal-portfolio-gamma-one-84.vercel.app
 
 ## GitHub Repository
-https://github.com/ASADNAWAZ10/PERSONAL_PORTFOLIO_USING_TAILWINDCSS_AND_REACT.JS
+https://github.com/ASADNAWAZ10/PersonalPortfolio
 
 ## Installation
 
