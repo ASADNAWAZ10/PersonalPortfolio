@@ -1,9 +1,10 @@
 import React from 'react'
-import Pro from '../assets/pro.jpg'
+import profile from '../assets/profile.png'
+
 function Hero() {
   return (
     <div className='bg-black text-white text-center py-16'>
-        <img src={Pro} alt="" className='mx-auto mb-8 w-48 h-48 rounded-full
+        <img src={profile} alt="" className='mx-auto mb-8 w-48 h-48 rounded-full
         object-cover transform transition duration-300 hover:scale-105' />
         <h1 className='text-4xl font-bold '>I'm {""}
             <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 
