@@ -1,7 +1,5 @@
 import React from "react";
 import "./App.css";
-// import Prac from "./Prac";
-
 import Nav from "./PersonalPortfolio/Nav";
 import Hero from "./PersonalPortfolio/Hero";
 import About from "./PersonalPortfolio/About";
@@ -20,8 +18,6 @@ function App() {
       <Services />
       <Contact />
       <Footer />
-
-      {/* <Prac /> */}
     </div>
   );
 }

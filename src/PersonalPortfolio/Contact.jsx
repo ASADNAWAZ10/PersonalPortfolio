@@ -13,21 +13,15 @@ function Contact() {
        <div className='mb-4'>
         <p className='hover:underline mt-2'><span className='text-2xl text-gray-300 font-bold'>Email: </span>
            asadnawaz211@gmail.com</p>
-         {/* <FaEnvelope className="inline-block text-green-400 mr-2"></FaEnvelope>
-         <a href="emailto:youremail@gmail.com" className='hover:underline'>
-           youremail@gamil.com
-         </a> */}
        </div>
        <div className='mb-2'>
         <p><span className='text-2xl text-gray-300 font-bold'>Phone:</span>+92302949630-3</p>
-        {/* <Faphone className="inline-block text-green-400 mr-2"></Faphone>
-        <span>+92302-9496303</span> */}
+       
       </div>
 
       <div className='mb-4'>
         <p><span className='text-2xl font-bold'>Address:</span>pirqayum, sadda, kpk, pakistan</p>
-        {/* <FaMapMarkedAlt className="inline-block text-green-400 mr-2"></FaMapMarkedAlt>
-        <span>pirqayum, sadda, kpk, pakistan</span> */}
+       
       </div>
       </div>
       <div className='flex-1 w-full'>

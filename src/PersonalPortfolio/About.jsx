@@ -14,7 +14,7 @@ function About() {
           />
           <div className="flex-1">
             <p className="text-lg mb-8">
-              I am passionate full-stuck developer with focus on building modern
+              I am passionate full-stack developer with focus on building modern
               and responsive web applications with a strong foundation in both
               frontend and backend technologies, I strive to create seamless and
               efficient user experiences.
